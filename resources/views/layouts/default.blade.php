@@ -7,5 +7,6 @@
 @include('layouts._header')
 @yield('content')
 @include('layouts._footer')
+<script src="/js/app.js"></script>
 </body>
 </html>
